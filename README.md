@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TryAdd&show_icons=true)  
-<!-- [![TryAdd workTime](https://github-readme-stats.vercel.app/api/wakatime?username=tryadd)](https://github.com/tryadd/github-readme-stats) -->
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tryadd)](https://github.com/anuraghazra/github-readme-stats)
+
+
