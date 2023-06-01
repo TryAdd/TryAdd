@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <!-- ![TryAdd's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=tryadd&theme=codeSTACKr&hide_border=false&hide_border=false)<br/>
 ![TryAdd's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tryadd&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false&layout=compact) -->
 
-
+<h3 align="left">My Stats:</h3>
 <br clear="both">
 
 <div align="center">
