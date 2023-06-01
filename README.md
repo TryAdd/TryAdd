@@ -26,18 +26,12 @@ Here are some ideas to get you started:
 
 
 <h3 align="left">My Stats:</h3>
-<br clear="both">
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=tryadd&locale=en&mode=weekly&theme=transparent&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tryadd&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
-
-
-###
-
 
 <br>
 <h3 align="left">Languages and Tools I use:</h3>
