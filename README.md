@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 
 <h3 align="left">My Stats:</h3>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=tryadd&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=8&order=3" height="200" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tryadd&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true&order=2" height="200" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=tryadd&locale=en&mode=daily&theme=transparent&hide_border=true&border_radius=8&order=3" height="180" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tryadd&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=transparent&hide_border=true&order=2" height="180" alt="languages graph"  />
 </div>
 
 ###
