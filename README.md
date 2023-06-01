@@ -24,13 +24,6 @@ Here are some ideas to get you started:
 <!-- ![TryAdd's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=tryadd&theme=codeSTACKr&hide_border=false&hide_border=false)<br/>
 ![TryAdd's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tryadd&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false&layout=compact) -->
 
-<br clear="both">
-
-<div align="center">
-  <img height="" src="https://media.tenor.com/uue6obhC92YAAAAd/hyakkimaru-dororo.gif"  />
-</div>
-
-###
 
 <h3 align="left">My Stats:</h3>
 <br clear="both">
@@ -60,3 +53,14 @@ Here are some ideas to get you started:
   </a>   <a href="TryAdd#4823" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a> </p>
+  
+  
+  
+  
+<br clear="both">
+
+<div align="center">
+  <img height="" src="https://media.tenor.com/uue6obhC92YAAAAd/hyakkimaru-dororo.gif"  />
+</div>
+
+###
