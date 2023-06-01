@@ -58,9 +58,9 @@ Here are some ideas to get you started:
   
   
 <br clear="both">
-
+<!-- 
 <div align="center">
   <img height="" src="https://media.tenor.com/uue6obhC92YAAAAd/hyakkimaru-dororo.gif"  />
-</div>
+</div> -->
 
 ###
