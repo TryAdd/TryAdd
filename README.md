@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 <!-- ![TryAdd's GitHub stats](https://github-readme-stats.vercel.app/api?username=tryadd&show_icons=true&theme=transparent) -->
 <!-- ![TryAdd's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=tryadd&theme=codeSTACKr&hide_border=false&hide_border=false)<br/>
 ![TryAdd's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tryadd&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false&layout=compact) -->
-<!-- <h3 align="left">🔥 My Stats:</h3>
+<h3 align="left">🔥 My Stats:</h3>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=tryadd&locale=en&mode=weekly&theme=transparent&hide_border=true&border_radius=8&order=3" height="180" alt="streak graph"  />
+ <!--  <img src="https://streak-stats.demolab.com?user=tryadd&locale=en&mode=weekly&theme=transparent&hide_border=true&border_radius=8&order=3" height="180" alt="streak graph"  /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tryadd&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=transparent&hide_border=true&order=2" height="180" alt="languages graph"  />
-</div> -->
+</div> 
 
 ###
 
